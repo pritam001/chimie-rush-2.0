@@ -1,0 +1,54 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1116
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=7838 outsize=515 ok=1
+Cmd: preprocess
+  insize=4612 outsize=2731 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8301 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8301 outsize=2103 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5040 outsize=2753 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5040 outsize=2826 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4300 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4300 outsize=1144 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8304 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8304 outsize=2103 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5042 outsize=2753 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5042 outsize=2826 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4302 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4302 outsize=1144 kw= pd= ok=1
+Cmd: preprocess
+  insize=3124 outsize=1538 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9154 outsize=3776 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9154 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5853 outsize=2866 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5853 outsize=4296 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5069 outsize=2021 kw= pd= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (106): floating point division by zero\nCompiling Fragment program
+  api=4 type=1 insize=5069 outsize=884 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1738 outsize=1290 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1738 outsize=965 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=13030 outsize=11024 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=1899 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
